@@ -10,7 +10,7 @@ The terminology files from IATE and Wiktionary data are in the form: {wikt,iate}
 Files containing 414 and 727 lines are the ones with perfect match on the target side. (Results in Table 2)
 Files containing 581 and 975 lines are the ones with approximate match on the target side. (Results in Table 4)
 
-For example, terminology file `iate.414.terminology.tsv' contain 3N+2 columns where N is the number of terminology matches in a sentence.
+For example, terminology file `iate.414.terminology.tsv' contain 2N+2 columns where N is the number of terminology matches in a sentence.
 
 ```
 0	21      interview       Interview
