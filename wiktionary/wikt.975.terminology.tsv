@@ -1,0 +1,975 @@
+0	6	dream	Traum						
+1	7	shocked	schockiert						
+2	17	bright	hell						
+3	20	successful	erfolgreich						
+4	23	successful	erfolgreich						
+5	25	laugh	lachen						
+6	27	married	verheiratet						
+7	32	beach	Strand						
+8	52	outstanding	herausragend						
+9	53	Alexander	Alexander	handball	Handball				
+10	58	invest	investieren						
+11	71	classic	klassisch	critical	kritisch				
+12	75	oil	Öl						
+13	76	become	werden	superpower	Supermacht				
+14	80	protect	schützen						
+15	91	arrive	ankommen						
+16	94	old	alt						
+17	111	flee	fliehen						
+18	120	percent	Prozent						
+19	121	certainly	sicher						
+20	123	talk	sprechen						
+21	125	seven	sieben						
+22	128	Swabia	Schwaben						
+23	130	central	zentral						
+24	138	industrial action	Arbeitskampf						
+25	139	industrial action	Arbeitskampf						
+26	140	industrial action	Arbeitskampf	September	September				
+27	144	Thursday	Donnerstag						
+28	146	silence	Schweigen	industrial action	Arbeitskampf	September	September		
+29	148	leader	Leiter	Dr	Dr.				
+30	153	Tuesday	am Dienstag	declare	verkünden				
+31	154	Putin	Putin						
+32	156	Putin	Putin	warmth	Wärme				
+33	157	Putin	Putin	five	fünf				
+34	162	Putin	Putin						
+35	163	fighter plane	Kampfflugzeug						
+36	165	Putin	Putin						
+37	171	illegal	illegal	oil	Öl				
+38	174	Putin	Putin						
+39	176	truce	Waffenstillstand						
+40	178	terror	Terror						
+41	188	Putin	Putin						
+42	191	feel	fühlen						
+43	193	peacemaker	Friedensstifter						
+44	195	Putin	Putin						
+45	196	consensus	Konsens	common ground	gemeinsam erden				
+46	203	protect	schützen						
+47	208	Republic of Ireland	Republik Irland						
+48	223	night	Nacht	John	Joh				
+49	246	Putin	Putin						
+50	247	Putin	Putin						
+51	248	Putin	Putin						
+52	250	Kremlin	Kreml	Putin	Putin				
+53	254	Kremlin	Kreml						
+54	255	Putin	Putin						
+55	257	Putin	Putin						
+56	260	Putin	Putin						
+57	262	Putin	Putin						
+58	267	Putin	Putin	Kremlin	Kreml	conversation	Gespräch		
+59	271	Putin	Putin						
+60	272	Putin	Putin						
+61	273	Putin	Putin	five	fünf				
+62	274	become	werden	Putin	Putin	Putin	Putin		
+63	275	Putin	Putin						
+64	276	Putin	Putin	later	später				
+65	278	Los Angeles	Los Angeles						
+66	280	Thursday	Donnerstag						
+67	283	later	später						
+68	287	thank	danken						
+69	288	September	September						
+70	298	concrete	Beton						
+71	301	historic	historisch						
+72	302	concrete	Beton						
+73	303	size	Größe	weight	Gewicht				
+74	304	concrete	Beton						
+75	309	at the same time	gleichzeitig						
+76	313	rescue	Rettung						
+77	314	fishing boat	Fischerboot						
+78	319	fishing boat	Fischerboot						
+79	325	Hamburg	Hamburg						
+80	326	police	Polizei						
+81	330	police	Polizei	perpetrator	Täter				
+82	345	percent	Prozent						
+83	348	percent	Prozent	percent	Prozent				
+84	349	cost	kosten						
+85	358	run	laufen						
+86	379	later	später	spin	Spin				
+87	380	somewhat	etwas						
+88	384	GPS	GPS						
+89	385	generation	Generation						
+90	391	depression	Depression						
+91	392	weight	Gewicht						
+92	394	fun	Spaß						
+93	402	real	Real						
+94	403	Dr	Dr.						
+95	413	Thursday	Donnerstag	rest	Rest				
+96	414	bronze	Bronze						
+97	415	United States	Amerika	Rio de Janeiro	Rio de Janeiro	Thursday	Donnerstag		
+98	416	generation	Generation						
+99	418	league	Liga						
+100	420	test	Prüfung	rest	Rest				
+101	422	United States	Amerika	embrace	umarmen	Rio de Janeiro	Rio de Janeiro	Thursday	Donnerstag
+102	423	Tuesday	am Dienstag						
+103	430	world champion	Weltmeister						
+104	432	white	weiß						
+105	433	bronze	Bronze						
+106	435	comeback	Comeback						
+107	438	police	Polizei	Thursday	Donnerstag				
+108	442	police	Polizei						
+109	443	seven	sieben						
+110	445	white	weiß						
+111	446	evidence	Beweis	killer	Mörder				
+112	447	later	später						
+113	449	police	Polizei						
+114	450	police	Polizei						
+115	455	initial	erster						
+116	463	crawl	krabbeln	talk	sprechen				
+117	464	slowly	langsam						
+118	470	measles	Masern						
+119	478	hopeful	hoffnungsvoll						
+120	482	rain	Regen						
+121	483	rain	Regen	rain	Regen				
+122	485	John	Joh						
+123	490	Alabama	Alabama	flood	Flut				
+124	492	flood	überschwemmen						
+125	493	slow	langsam						
+126	494	south	süd						
+127	504	heavy	schwer	evacuation	Evakuierung				
+128	505	observer	Beobachter	rain	Regen				
+129	507	rain	Regen	rescue	Rettung	five	fünf		
+130	510	seven	sieben						
+131	517	Thursday	Donnerstag						
+132	526	critical	kritisch						
+133	531	critical	kritisch						
+134	532	critical	kritisch						
+135	533	police	Polizei						
+136	536	battle	Kampf						
+137	538	police	Polizei						
+138	540	police	Polizei						
+139	541	Tuesday	Dienstag						
+140	542	police	Polizei						
+141	547	proud	stolz						
+142	549	female	weiblich						
+143	550	female	weiblich						
+144	554	yet	doch						
+145	555	Thursday	Donnerstag						
+146	560	cost	kosten	facility	Einrichtung				
+147	562	long-term	langfristig						
+148	567	September	September						
+149	568	determination	Bestimmtheit	mind	Geist				
+150	573	begin	beginnen	successful	erfolgreich				
+151	576	delay	Verzögerung						
+152	578	last night	letzte Nacht						
+153	580	deafening silence	ohrenbetäubend Schweigen						
+154	583	industrial action	Arbeitskampf						
+155	588	worry	Sorge						
+156	590	deployment	Entsendung						
+157	591	heart attack	Herzinfarkt						
+158	592	heart attack	Herzinfarkt						
+159	594	heart attack	Herzinfarkt						
+160	597	heart attack	Herzinfarkt						
+161	599	blood clot	Blutgerinnsel	heart attack	Herzinfarkt				
+162	600	clot	Blutgerinnsel	block	verstopfen	flow	fließen		
+163	604	heart attack	Herzinfarkt	heart attack	Herzinfarkt				
+164	606	heart attack	Herzinfarkt						
+165	610	mayor	Bürgermeister	last year	letztes Jahr				
+166	612	police	Polizei	evidence	Beweis				
+167	613	bad	schlimm	police	Polizei	protect	schützen		
+168	615	merely	lediglich						
+169	619	protect	schützen	protect	schützen				
+170	620	East	Osten						
+171	621	mayor	Bürgermeister	illegal	illegal				
+172	623	duty	Pflicht						
+173	625	evidence	Beweis						
+174	627	clean	säubern						
+175	628	minority	Minderheit	background	Hintergrund				
+176	630	clean	säubern	stop	stoppen				
+177	637	police	Polizei						
+178	640	requirement	Anforderung	English	Englisch				
+179	643	illegal	illegal						
+180	647	proud	stolz	yet	doch				
+181	652	kid	Kind						
+182	655	kid	Kind						
+183	658	long jumper	Weitspringer						
+184	660	swimmer	Schwimmer						
+185	662	heavy	schwer						
+186	663	Adrian	Adrian	resemble	gleichen				
+187	666	theory	Theorie	pair	Paar				
+188	667	rest	Rest						
+189	670	swimmer	Schwimmer						
+190	671	analysis	Analyse						
+191	672	swimmer	Schwimmer	race	Rennen				
+192	677	swimmer	Schwimmer						
+193	678	tone	Ton						
+194	679	swimmer	Schwimmer						
+195	684	Sarah	Sarah						
+196	692	regret	bedauern						
+197	693	last night	gestern Nacht						
+198	694	swimmer	Schwimmer						
+199	695	inappropriate	unangemessen						
+200	696	Thursday	Donnerstag						
+201	698	swimmer	Schwimmer						
+202	700	shop	Geschäft						
+203	701	try	probieren						
+204	702	shelf	Regal						
+205	704	shelf	Regal						
+206	705	shop	Geschäft						
+207	707	pair	Paar						
+208	708	discreet	diskret						
+209	709	shelf	Regal						
+210	711	buy	kaufen						
+211	713	Tuesday	Dienstag						
+212	715	pair	Paar						
+213	716	Tuesday	am Dienstag						
+214	721	turn	drehen						
+215	722	turn	drehen						
+216	723	forearm	Vorderarm						
+217	724	pain	Schmerz						
+218	725	technique	Technik						
+219	726	weight	Gewicht						
+220	731	traveller	Reisender	test	Prüfung				
+221	732	train	Zug						
+222	735	train	Zug						
+223	740	kid	Kind						
+224	745	less	weniger						
+225	746	dairy	Milchprodukte						
+226	750	dairy	Milchprodukte						
+227	753	at the same time	gleichzeitig						
+228	754	crazy	verrückt						
+229	755	phenomenon	Phänomen						
+230	757	phenomenon	Phänomen	interesting	interessant				
+231	760	pretty	ziemlich						
+232	766	shocked	schockiert						
+233	773	police	Polizei	terror	Terror				
+234	777	police	Polizei						
+235	781	bad	schlimm						
+236	782	police	Polizei						
+237	787	police	Polizei						
+238	788	old	alt						
+239	796	police	Polizei	cannabis	Cannabis				
+240	803	behave	benehmen						
+241	804	protect	schützen						
+242	805	beach	Strand						
+243	806	shock	Schock						
+244	809	beach	Strand						
+245	811	noise	Lärm						
+246	812	afternoon	Nachmittag						
+247	815	beach	Strand						
+248	823	Catalan	Katalane	later	später				
+249	824	Europa	Europa						
+250	828	league	Liga						
+251	833	league	Liga						
+252	834	Rio de Janeiro	Rio de Janeiro						
+253	835	Thursday	Donnerstag	Rio de Janeiro	Rio de Janeiro				
+254	837	bronze	Bronze						
+255	845	flag	Fahne						
+256	846	match	Match						
+257	849	match	Match						
+258	851	bronze	Bronze	match	Spiel				
+259	853	old	alt						
+260	858	race	Rennen						
+261	859	whom	die						
+262	866	stop	stoppen						
+263	870	way of life	Lebensweise						
+264	878	John	Joh						
+265	895	mentality	Mentalität						
+266	897	systematically	systematisch						
+267	900	tragic	tragisch	Romeo	Romeo				
+268	905	Latin American	lateinamerikanisch						
+269	906	Latin American	lateinamerikanisch						
+270	917	opera	Oper						
+271	920	passionate	leidenschaftlich						
+272	924	southern temperament	südlich Temperament						
+273	925	fanaticism	Fanatismus						
+274	930	last year	letztes Jahr						
+275	932	Thursday	Donnerstag						
+276	933	old	alt						
+277	936	fighter	Kämpfer	widow	Witwe				
+278	938	nominate	nominieren						
+279	939	confirmation	Bestätigung	Obama	Obama				
+280	941	Thursday	Donnerstag						
+281	942	later	später	nominate	nominieren				
+282	949	instead of	anstelle	generation	Generation				
+283	953	classic	klassisch	feel	fühlen	female	weiblich		
+284	954	art	Kunstwerk						
+285	955	submit	einreichen	in person	persönlich	Los Angeles	Los Angeles		
+286	956	Kurdish	Kurdisch						
+287	958	Kurdish	Kurdisch						
+288	959	association	Verband						
+289	960	Kurdish	Kurdisch						
+290	962	Kurdish	kurdisch						
+291	963	secular	säkular						
+292	966	Kurdish	kurdisch						
+293	968	minority	Minderheit						
+294	970	witch-hunt	Hexenjagd						
+295	972	branch	Zweig						
+296	973	seek	suchen						
+297	977	percent	Prozent						
+298	981	North Rhine-Westphalia	Nordrhein-Westfalen						
+299	982	understood	verstanden						
+300	983	take place	stattfinden						
+301	987	blow up	aufblasen						
+302	988	September	September						
+303	990	leader	Anführer						
+304	993	old	alt	inconspicuous	unauffällig				
+305	994	predecessor	Vorgänger						
+306	996	cost	kosten						
+307	999	North Rhine-Westphalia	Nordrhein-Westfalen						
+308	1001	listen	hören						
+309	1007	at stake	auf dem Spiel						
+310	1008	percent	Prozent						
+311	1009	percent	Prozent	percent	Prozent				
+312	1010	seven percent	sieben Prozent						
+313	1024	Monday	am Montag	town	Ort				
+314	1026	town	Ort						
+315	1040	slight	leicht						
+316	1042	clearly	deutlich						
+317	1047	percent	Prozent						
+318	1055	less	weniger						
+319	1061	recent	jüngst						
+320	1070	recent	jüngst						
+321	1088	deeply	tief						
+322	1113	percent	Prozent						
+323	1114	percent	Prozent						
+324	1121	seven	sieben	percent	Prozent				
+325	1123	percent	Prozent						
+326	1127	motor	Motor						
+327	1131	Monday	Montag						
+328	1134	Alexander	Alexander						
+329	1135	motor	Motor						
+330	1137	workshop	Werkstatt	motor	Motor				
+331	1141	Paul	Paul	Thursday	Donnerstag				
+332	1143	percent	Prozent						
+333	1144	September	September	fee	Gebühr				
+334	1146	cost	kosten	Paul	Paul				
+335	1148	percent	Prozent						
+336	1155	permanent	dauerhaft						
+337	1156	credit	Kredit						
+338	1157	branch	Filiale						
+339	1168	middle-aged	mittleren Alters						
+340	1169	pseudonym	Pseudonym						
+341	1173	enjoy	genießen						
+342	1177	slowly	langsam						
+343	1178	stop	halt						
+344	1179	whom	die	middle-aged	mittleren Alters	middle-aged	mittleren Alters		
+345	1184	income	Einkommen	buy	kaufen				
+346	1186	purchase	kaufen	very much	sehr				
+347	1188	profile	Profil						
+348	1189	wave	Welle	comeback	Comeback	buy	kaufen	old	alt
+349	1191	buy	kaufen	buy	kaufen				
+350	1192	explain	erklären						
+351	1194	shop	Geschäft						
+352	1195	payment	Zahlung						
+353	1196	feel	fühlen						
+354	1197	void	Leere						
+355	1201	yet	noch						
+356	1202	purchase	kaufen	record player	Plattenspieler				
+357	1205	record player	Plattenspieler	buy	kaufen	shelf	Regal		
+358	1207	less	weniger						
+359	1208	record player	Plattenspieler						
+360	1211	middle-aged	mittleren Alters						
+361	1212	less	weniger						
+362	1218	listen	hören						
+363	1219	explain	erklären						
+364	1220	shop	Geschäft	generation	Generation	Urban	Urban		
+365	1221	record player	Plattenspieler						
+366	1223	merely	nur						
+367	1226	luxury	Luxus						
+368	1227	female	weiblich						
+369	1229	Thursday	Donnerstag	creepy	unheimlich	middle-aged	mittleren Alters		
+370	1232	female	Weib	old	alt	five	fünf		
+371	1233	refugee camp	Flüchtlingslager						
+372	1234	makeshift	provisorisch						
+373	1235	makeshift	provisorisch	goods	Ware	makeshift	provisorisch		
+374	1237	association	Verein						
+375	1238	makeshift	provisorisch						
+376	1239	makeshift	provisorisch						
+377	1242	English	Englisch						
+378	1244	whom	der						
+379	1245	steep	steil						
+380	1248	Thursday	Donnerstag						
+381	1259	Thursday	Donnerstag	Kiel	Kiel				
+382	1266	hobby	Hobby						
+383	1267	Thursday	Donnerstag						
+384	1274	Seattle	Seattle						
+385	1281	trailer	Trailer						
+386	1282	generation	Generation						
+387	1283	trailer	Trailer	Wiesbaden	Wiesbaden	police	Polizei		
+388	1284	motorway	Autobahn						
+389	1286	trailer	Trailer	five	fünf				
+390	1287	at the same time	gleichzeitig						
+391	1291	protect	schützen						
+392	1292	trailer	Trailer						
+393	1295	Thursday	Donnerstag						
+394	1296	win	gewinnen						
+395	1297	proud	stolz						
+396	1313	break	Pause						
+397	1317	try	Versuch						
+398	1319	try	Versuch						
+399	1324	battle	Kampf						
+400	1327	Robin	Robin						
+401	1330	battalion	Bataillon						
+402	1332	bladder	Blase						
+403	1334	pretty bad	ziemlich schlimm						
+404	1337	begin	beginnen	minimum	Minimum				
+405	1343	immediacy	Unmittelbarkeit						
+406	1345	Robin	Robin						
+407	1346	Robin	Robin						
+408	1347	Robin	Robin						
+409	1349	race	Rennen	five	fünf				
+410	1350	pair	Paar						
+411	1352	very much	sehr						
+412	1356	win	gewinnen	race	Rennen				
+413	1357	pair	Paar						
+414	1359	enjoy	genießen						
+415	1360	race	Rennen						
+416	1369	Franconian	fränkisch						
+417	1371	later	später						
+418	1379	budget	Haushalt						
+419	1390	challenge	Herausforderung						
+420	1391	night	Nacht						
+421	1394	talk	sprechen						
+422	1401	married	verheiratet						
+423	1404	police	Polizei						
+424	1405	perpetrator	Täter						
+425	1408	police	Polizei						
+426	1409	old	alt						
+427	1412	police	Polizei						
+428	1414	police	Polizei						
+429	1415	perpetrator	Täter						
+430	1416	police	Polizei	perpetrator	Täter				
+431	1418	police	Polizei						
+432	1422	promotion	Förderung						
+433	1424	truly	wirklich						
+434	1425	electricity	Strom						
+435	1428	percent	Prozent						
+436	1442	Thursday	Donnerstag						
+437	1447	rising	steigend						
+438	1448	percent less	Prozent weniger						
+439	1450	percent	Prozent						
+440	1451	association	Verband						
+441	1452	mind	Geist						
+442	1453	studying	Studium						
+443	1456	mind	Geist						
+444	1457	hobby	Hobby						
+445	1460	familial	familiär						
+446	1463	deeply	tief						
+447	1465	hobby	Hobby						
+448	1471	challenge	Herausforderung						
+449	1475	self-esteem	Selbstwertgefühl						
+450	1478	try	probieren	hobby	Hobby	talent	Talent		
+451	1483	churchwarden directly	Kirchenvorsteher direkt						
+452	1490	female	Weibchen						
+453	1492	percent	Prozent						
+454	1494	less	weniger						
+455	1497	animal husbandry	Tierhaltung						
+456	1509	arrest warrant	Haftbefehl						
+457	1512	Istanbul	Istanbul	Istanbul	Istanbul				
+458	1515	stop	halt						
+459	1518	whom	den						
+460	1526	Cologne	Köln	club	Verein				
+461	1531	Europa	Europa						
+462	1534	win	gewinnen						
+463	1541	third	Dritte						
+464	1544	Rio de Janeiro	Rio de Janeiro						
+465	1545	laugh	lachen						
+466	1547	swimmer	Schwimmer						
+467	1555	Jamaica	Jamaika	two-time	zweimalig				
+468	1556	operation	Operation						
+469	1560	two-time	zweimalig						
+470	1563	hammer	Hammer						
+471	1564	later	später	testosterone	Testosteron				
+472	1565	testosterone	Testosteron						
+473	1566	bronze	Bronze						
+474	1568	world record	Weltrekord						
+475	1569	world champion	Weltmeisterin						
+476	1570	Thailand	Thailand						
+477	1571	Thailand	Thailand						
+478	1573	September	September						
+479	1574	unclear	unklar	southern	südlich				
+480	1576	south	süd	capital city	Hauptstadt	Thursday	Donnerstag		
+481	1577	police	Polizei						
+482	1580	taxi driver	Taxifahrer						
+483	1589	police	Polizei						
+484	1593	unclear	unklar						
+485	1594	police	Polizei						
+486	1595	Thailand	Thailand						
+487	1596	Thailand	Thailand						
+488	1599	population	Bevölkerung						
+489	1600	rest	Rest						
+490	1601	Thursday	Donnerstag						
+491	1607	whom	dem						
+492	1609	right-wing	recht						
+493	1616	Baden-Württemberg	Baden-Württemberg						
+494	1622	propaganda	Propaganda						
+495	1631	right-wing	recht	refugee	Asylbewerber	yet	noch	right-wing	recht
+496	1632	right-wing	recht						
+497	1634	right-wing	recht	far-right	rechtsextrem				
+498	1640	far-right	rechtsextrem	far-right	rechtsextrem				
+499	1643	Rio de Janeiro	Rio de Janeiro						
+500	1644	swimmer	Schwimmer	slowly	langsam				
+501	1652	run	laufen						
+502	1653	race	Rennen						
+503	1657	five	fünf	metre	Meter				
+504	1660	swimmer	Schwimmer	Guinea	Guinea	metre	Meter		
+505	1663	Los Angeles	Los Angeles						
+506	1664	downtown	Innenstadt	Los Angeles	Los Angeles				
+507	1666	formerly	ehemals						
+508	1669	cozy	gemütlich						
+509	1671	shop	Laden						
+510	1672	police	Polizei	shop	Geschäft	Monday	Montag	window	Fenster
+511	1674	perpetrator	Täter						
+512	1682	Obama	Obama	IS	IS				
+513	1683	resistance	Widerstand						
+514	1690	third	Dritte	postal	Post-				
+515	1692	postal	Post-						
+516	1695	long-term	langfristig						
+517	1701	complete	ganz						
+518	1705	September	September						
+519	1706	September	September						
+520	1708	long-term	langfristig						
+521	1716	stop	stoppen						
+522	1718	percent	Prozent						
+523	1723	Thursday	Donnerstag						
+524	1724	police	Polizei						
+525	1725	driver	Fahrer						
+526	1726	police	Polizei						
+527	1728	fire brigade	Feuerwehr						
+528	1729	rescue	Rettung	ambulance	Rettungswagen				
+529	1732	police	Polizei						
+530	1733	instead of	statt						
+531	1736	mayor	Bürgermeister	budget	Haushalt				
+532	1739	fee	Gebühr	percent	Prozent				
+533	1741	September	September						
+534	1742	fee	Gebühr						
+535	1746	old	alt	old	alt				
+536	1748	old	alt						
+537	1750	electricity	Strom						
+538	1760	goods	Güter	goods	Güter				
+539	1762	electricity	Strom						
+540	1765	daily	täglich						
+541	1766	pineapple	Ananas						
+542	1767	blunt	unverblümt						
+543	1770	racist	rassistisch						
+544	1772	feature	Feature						
+545	1779	cross	quer	cultural	kulturell				
+546	1782	Thursday	Donnerstag						
+547	1783	Thursday	Donnerstag	engineer	Ingenieurin				
+548	1785	white	weiß	hashtag	Hashtag				
+549	1786	feel	fühlen						
+550	1789	Thursday	Donnerstag						
+551	1791	ISIS	ISIS						
+552	1792	picture	Bild	Thursday	Donnerstag				
+553	1795	analysis	Analyse						
+554	1796	analysis	Analyse						
+555	1797	leadership	Führung						
+556	1798	description	Beschreibung	analysis	Analyse				
+557	1799	Obama	Obama	ISIS	ISIS				
+558	1801	Mosul	Mossul	begin	beginnen				
+559	1802	Mosul	Mossul						
+560	1803	Kansas	Kansas						
+561	1804	ISIS	ISIS						
+562	1806	Thursday	Donnerstag						
+563	1808	Thursday	Donnerstag						
+564	1810	morale	Moral						
+565	1812	Tuesday	Dienstag						
+566	1817	Obama	Obama						
+567	1820	makeshift	provisorisch	oil	Öl				
+568	1821	September	September						
+569	1825	United States	Amerika	Thursday	Donnerstag				
+570	1830	meet	treffen						
+571	1835	field hockey	Hockey						
+572	1842	Thursday	Donnerstag						
+573	1843	score	Spielstand						
+574	1846	United States	USA						
+575	1849	depend	abhängen						
+576	1852	Rio de Janeiro feel	Rio de Janeiro fühlen						
+577	1853	swimmer	Schwimmer						
+578	1854	read	lesen	listen	hören	conversation	Gespräch		
+579	1856	swimmer	Schwimmer						
+580	1858	equally	gleich						
+581	1861	discreet	diskret						
+582	1864	United States	USA						
+583	1869	diving	Tauchen						
+584	1871	upon	auf						
+585	1874	common	gemein						
+586	1877	admirable	bewundernswert						
+587	1885	take place	stattfinden	streaming	Streaming				
+588	1886	afternoon	Nachmittag						
+589	1887	promise	versprechen	melee	Tumult				
+590	1891	resistance	Widerstand						
+591	1892	shot	Schuss	police	Polizei				
+592	1894	Africa	Afrika						
+593	1900	human rights	Menschenrechte						
+594	1901	Africa	Afrika	research	Forschung				
+595	1902	Africa	Afrika						
+596	1903	Somalia	Somalia	Africa	Afrika				
+597	1906	clean	sauber						
+598	1907	paragon	Vorbild						
+599	1912	generation	Generation						
+600	1914	last year	letztes Jahr	percent	Prozent				
+601	1915	Eritrea	Eritrea	battle	Kampf				
+602	1916	less	weniger						
+603	1917	explain	erklären	bitter	bitter				
+604	1918	innocuous	harmlos						
+605	1924	whom	den						
+606	1928	feel	Gefühl	percent	Prozent	population	Bevölkerung		
+607	1932	especially	besonders						
+608	1934	relative	relativ						
+609	1937	bloodshed	Blutvergießen						
+610	1944	United States	USA						
+611	1945	Somalia	Somalia						
+612	1949	Obama	Obama						
+613	1951	explain	erklären						
+614	1952	Thursday	Donnerstag	ISIS	ISIS				
+615	1955	Obama	Obama	destroy ISIS	zerstören ISIS				
+616	1959	speech	Rede						
+617	1960	sarcasm defense	Sarkasmus Verteidigung						
+618	1961	later	später						
+619	1965	tone	Ton						
+620	1966	race	Rennen						
+621	1967	generally	generell						
+622	1969	mayor	Bürgermeister	Thursday	Donnerstag				
+623	1970	assertion	Aussage	Obama	Obama				
+624	1971	Obama	Obama	ISIS	ISIS				
+625	1972	try	versuchen	Obama	Obama	ISIS	ISIS		
+626	1974	poor	arm	pathetic	jämmerlich	try	versuchen		
+627	1975	evidence	Beweis						
+628	1983	less	weniger	original	ursprünglich				
+629	1984	credit	Kredit						
+630	1986	old	alt						
+631	1991	old	alt						
+632	1997	stream	Strom	old	alt				
+633	2004	instead of	anstelle						
+634	2007	seven	sieben						
+635	2010	shop	Geschäft	old	alt				
+636	2013	traditional Polish	traditionell polnisch						
+637	2014	Polish	Polnisch	feel	fühlen				
+638	2016	juice	Saft						
+639	2018	old	alt						
+640	2024	fancy	raffiniert						
+641	2030	Tuesday	am Dienstag						
+642	2031	reporter	Reporter						
+643	2033	reporter	Reporter	meatloaf	Hackbraten				
+644	2043	central	zentral						
+645	2044	fraught	voll	budget	Budget	hide	verstecken		
+646	2046	luxury	Luxus						
+647	2048	dish	Gericht						
+648	2054	become	werden	challenge	Herausforderung				
+649	2055	historical	historisch						
+650	2062	housekeeper	Haushälterin						
+651	2066	real	echt						
+652	2072	goo	Glibber						
+653	2080	barrel bomb	Fassbombe						
+654	2084	rescue	Rettung						
+655	2086	real	echt						
+656	2090	seven	sieben						
+657	2093	old	alt						
+658	2095	Greenland	Grönland						
+659	2096	research	Forschung						
+660	2098	Greenland	Grönland						
+661	2099	Greenland	Grönland						
+662	2102	old	alt						
+663	2103	Alexander	Alexander	world record	Weltrekord				
+664	2104	Greenland	Grönland						
+665	2106	observe Greenland	beobachten Grönland	Greenland	Grönland				
+666	2108	Greenland	Grönland						
+667	2110	polar bear	Eisbär						
+668	2112	Greenland	Grönland	Greenland	Grönland				
+669	2114	lens	Linse						
+670	2116	lens	Linse						
+671	2117	radioactive	radioaktiv						
+672	2118	lens	Linse						
+673	2119	Greenland	Grönland	lens	Linse				
+674	2120	old	alt						
+675	2121	female Greenland	Weibchen Grönland						
+676	2123	Greenland	Grönland						
+677	2124	world record	Weltrekord						
+678	2125	icy	eisig						
+679	2126	Greenland	Grönland	Alaska	Alaska				
+680	2128	later	später						
+681	2129	become	werden						
+682	2134	invest	investieren						
+683	2136	recent	jüngst						
+684	2137	mayor	Bürgermeister	begin	beginnen				
+685	2140	September	September						
+686	2150	five	fünf						
+687	2152	less	weniger						
+688	2153	directly	direkt						
+689	2167	Thursday	Donnerstag						
+690	2168	generation	Generation	cure	heilen	percent	Prozent		
+691	2176	income	Einkommen						
+692	2177	income	Einkommen	tenure	Amtszeit				
+693	2182	although	obwohl						
+694	2185	Thursday	Donnerstag						
+695	2188	Thursday	Donnerstag	speech	Rede				
+696	2189	crowd	Menge						
+697	2193	Obama	Obama						
+698	2198	income	Einkommen						
+699	2202	unorthodox	unorthodox						
+700	2203	upon	mit	promotion	Förderung				
+701	2211	whiff	Hauch						
+702	2212	loud	laut	bright	hell				
+703	2214	clearly capable	deutlich fähig						
+704	2217	Jewish	Jüdisch						
+705	2218	Jewish	jüdisch	Arabic	arabisch				
+706	2220	Israel	Israel						
+707	2221	directly	direkt						
+708	2222	Israel	Israel						
+709	2224	Israel	Israel						
+710	2237	Arabic	arabisch						
+711	2238	synagogue	Synagoge						
+712	2239	oversight	Versehen						
+713	2240	direct	direkt	Israel	Israel				
+714	2243	police	Polizei	Thursday	Donnerstag				
+715	2245	police	Polizei						
+716	2251	percent	Prozent						
+717	2253	existing	bestehend						
+718	2255	five	fünf	percent	Prozent				
+719	2256	percent	Prozent						
+720	2257	percent	Prozent						
+721	2258	ground	Land						
+722	2262	broken	gebrochen						
+723	2264	civilization	Zivilisation						
+724	2266	Thursday	Donnerstag						
+725	2268	police	Polizei						
+726	2270	directly	unmittelbar	park	Park				
+727	2271	park	Park						
+728	2272	police	Polizei						
+729	2282	English	Englisch						
+730	2289	Rome	Rom						
+731	2290	pilgrimage	Wallfahrt	pilgrimage	Wallfahrt				
+732	2300	reward	Belohnung						
+733	2302	afternoon	Nachmittag						
+734	2305	high altar	Hochaltar						
+735	2307	afternoon	Nachmittag						
+736	2310	glory	Ruhm						
+737	2311	anchor	Anker	proud	stolz				
+738	2312	shock	schockieren						
+739	2321	strategy	Strategie	slow	langsam				
+740	2327	win	gewinnen						
+741	2329	later	später						
+742	2333	win	gewinnen						
+743	2334	seven	sieben						
+744	2335	five	fünf	successful five	erfolgreich fünf				
+745	2342	win	gewinnen						
+746	2348	world record	Weltrekord						
+747	2351	world record	Weltrekord						
+748	2354	background	Hintergrund	Victoria	Victoria				
+749	2355	night	Abend						
+750	2357	Victoria	Victoria						
+751	2358	Victoria	Victoria	operation	Betrieb				
+752	2359	subsidy	Subvention						
+753	2361	direct	direkt						
+754	2362	Victoria	Victoria	electricity	Strom				
+755	2363	last year	letztes Jahr						
+756	2365	speculation	Spekulation						
+757	2367	joint venture	Joint Venture						
+758	2368	electricity	Strom						
+759	2374	electricity	Strom						
+760	2375	yet	noch						
+761	2376	Victoria	Victoria						
+762	2378	electricity	Strom						
+763	2380	September	September						
+764	2381	model	Model	September	September				
+765	2382	Thursday	Donnerstag						
+766	2384	classic	klassisch						
+767	2386	September	September						
+768	2387	September	September	league	Liga				
+769	2388	September	September						
+770	2392	model	Model						
+771	2394	generation	Generation						
+772	2396	entertainment	Unterhaltung						
+773	2400	Victoria	Victoria	model	Model				
+774	2403	September	September						
+775	2412	five	fünf						
+776	2438	Mecklenburg	Mecklenburg						
+777	2440	September	September	September	September				
+778	2444	percent	Prozent	percent	Prozent	five	fünf		
+779	2445	percent	Prozent						
+780	2447	percent	Prozent	percent	Prozent	percent	Prozent		
+781	2448	percent	Prozent	percent	Prozent				
+782	2449	percent	Prozent						
+783	2450	percent	Prozent	percent	Prozent				
+784	2451	percent	Prozent	percent	Prozent				
+785	2452	percent	Prozent	percent	Prozent	percent	Prozent	percent	Prozent
+786	2453	percent	Prozent						
+787	2454	percent	Prozent						
+788	2458	heavy	schwer						
+789	2464	buy	kaufen						
+790	2468	slow	langsam						
+791	2469	calculator	Taschenrechner						
+792	2471	white	Weiß						
+793	2476	success story	Erfolgsgeschichte						
+794	2478	later	später						
+795	2485	introduction	Einführung						
+796	2501	challenge	Herausforderung						
+797	2507	budget	Budget	five	fünf				
+798	2510	proud	stolz						
+799	2511	Paul	Paul						
+800	2514	Thursday	Donnerstag						
+801	2515	Tuesday	Dienstag						
+802	2517	battle	Kampf						
+803	2520	daily	täglich						
+804	2523	Tuesday	Dienstag						
+805	2524	Thursday	Donnerstag						
+806	2527	run over	überfahren	motorway	Autobahn				
+807	2528	motorway	Autobahn	night	Nacht				
+808	2529	run over	überfahren	motorway	Autobahn	Thursday	Donnerstag		
+809	2530	canton	Kanton						
+810	2531	police	Polizei						
+811	2534	police	Polizei						
+812	2539	five	fünf						
+813	2540	motorway	Autobahn	motorway	Autobahn	night	Nacht		
+814	2541	night	Nacht						
+815	2543	policewoman	Polizistin						
+816	2544	Thursday	Donnerstag	police	Polizei				
+817	2545	Venus	Venus						
+818	2546	Venus	Venus						
+819	2547	model	Model	Venus	Venus				
+820	2548	model	Model	Venus	Venus				
+821	2549	Venus	Venus	slow	langsam				
+822	2550	Venus	Venus	slowly	langsam				
+823	2551	model	Model	Venus	Venus				
+824	2553	Venus	Venus	percent	Prozent				
+825	2554	model	Model	Venus	Venus	slow	langsam		
+826	2555	rain	Regen						
+827	2557	model	Model	Venus	Venus	evolution	Evolution		
+828	2558	Venus	Venus	ultraviolet	ultraviolett				
+829	2559	ultraviolet	ultraviolett						
+830	2560	deathly	tödlich	Venus	Venus				
+831	2561	Venus	Venus						
+832	2563	Thursday	Donnerstag						
+833	2564	club	Verein						
+834	2565	determination	Bestimmtheit						
+835	2567	perfectly	perfekt						
+836	2572	in the future	Zukunft						
+837	2573	league	Liga						
+838	2574	club	Verein						
+839	2575	five	fünf						
+840	2580	confirm	bestätigen						
+841	2582	percent	Prozent						
+842	2583	percent	Prozent						
+843	2584	rate	Rate						
+844	2586	oil	Öl						
+845	2588	generation	Generation						
+846	2591	five	fünf						
+847	2592	Pleiades	Plejaden						
+848	2593	space	Weltraum	complete	vollständig	Pleiades	Plejaden		
+849	2594	spin	rotieren						
+850	2596	Pleiades	Plejaden						
+851	2601	slow	langsam						
+852	2603	slowly	langsam	less	weniger				
+853	2604	slowly	langsam						
+854	2605	Pleiades	Plejaden	slow	langsam				
+855	2606	Pleiades	Plejaden	stellar	stellar				
+856	2607	Pleiades	Plejaden	anchor	Anker	stellar	stellar		
+857	2608	slow	langsam	hang	aufhängen				
+858	2609	analysis	Analyse	Pleiades	Plejaden				
+859	2615	league	Liga						
+860	2619	Seattle	Seattle						
+861	2622	successful	erfolgreich						
+862	2625	clinic	Klinik						
+863	2627	league	Liga	break	Pause				
+864	2631	win	gewinnen						
+865	2632	married	verheiratet						
+866	2634	Adrian	Adrian						
+867	2635	Adrian	Adrian						
+868	2636	Rio de Janeiro	Rio de Janeiro						
+869	2639	swimmer	Schwimmer	Polish	polnisch	Adrian	Adrian		
+870	2642	bronze	Bronze						
+871	2645	association	Verband						
+872	2647	test	Probe	offensive	Offensive				
+873	2648	test	Test	shock	Schock				
+874	2654	participate	teilnehmen						
+875	2655	Adrian	Adrian						
+876	2657	heavy blow	schwer Schlag						
+877	2662	podium	Podium						
+878	2668	percent	Prozent						
+879	2669	percent	Prozent						
+880	2670	percent	Prozent						
+881	2672	successful	erfolgreich						
+882	2683	percent	Prozent	percent	Prozent				
+883	2686	percent	Prozent						
+884	2689	conclusion	Ergebnis	try	versuchen				
+885	2690	explain	erklären						
+886	2699	underground	Untergrund	criminal	Kriminelle				
+887	2700	payment	Bezahlung						
+888	2703	percent	Prozent						
+889	2710	instead of	statt						
+890	2717	comparable	vergleichbar						
+891	2719	less	weniger						
+892	2720	comparable	vergleichbar						
+893	2724	motor	Motor						
+894	2727	direct	direkt						
+895	2736	invest	investieren						
+896	2740	passenger	Passagier	passenger	Passagier				
+897	2742	broken	gebrochen	kneecap	Kniescheibe				
+898	2747	percent	Prozent						
+899	2750	seawater	Meerwasser						
+900	2755	seawater	Meerwasser						
+901	2776	slap in the face	Ohrfeige						
+902	2783	motorway	Autobahn						
+903	2784	regular	regelmäßig	bypass	Umgehungsstraße				
+904	2786	motorway	Autobahn						
+905	2787	Tuesday	Dienstag						
+906	2788	directly	direkt						
+907	2789	major	dur						
+908	2794	motorway	Autobahn						
+909	2798	officially	offiziell						
+910	2800	Tuesday	am Dienstag						
+911	2803	association	Verein						
+912	2804	association	Verein	cultural	kulturell				
+913	2807	association	Verein	cultural	kulturell	cultural	kulturell		
+914	2808	September	September						
+915	2809	choreography	Choreographie						
+916	2812	theatrical	Theater						
+917	2814	association	Verein						
+918	2816	night	Nacht						
+919	2817	rain	Regen						
+920	2818	night	Nacht						
+921	2819	sky	Himmel						
+922	2822	night	Nacht						
+923	2823	night	Abend						
+924	2825	percent	Prozent						
+925	2834	depression	Depression						
+926	2844	turn	wenden						
+927	2851	bed	Bett						
+928	2852	finger	Finger						
+929	2856	bed	Bett	bed	Bett				
+930	2857	missing	fehlend						
+931	2858	swimmer	Schwimmer						
+932	2859	world record	Weltrekord						
+933	2861	night	Nacht						
+934	2865	comeback	Comeback						
+935	2867	Hamburg	Hamburg						
+936	2870	police	Polizei	Thursday	Donnerstag				
+937	2876	police	Polizei						
+938	2880	trendy	trendig						
+939	2881	ground	Grund						
+940	2882	police	Polizei	police	Polizei	autonomous	autonom		
+941	2883	police	Polizei	police	Polizei				
+942	2885	illegal	illegal	later	später	police	Polizei		
+943	2886	peaceful	friedlich						
+944	2888	police	Polizei						
+945	2889	rising	steigend						
+946	2890	police	Polizei						
+947	2891	police	Polizei						
+948	2892	rest	Rest						
+949	2894	real	echt	police	Polizei				
+950	2896	percent	Prozent						
+951	2898	autonomous	autonom						
+952	2906	police	Polizei						
+953	2907	old	alt	old	alt				
+954	2911	police	Polizei						
+955	2913	noise	Lärm						
+956	2921	grateful	dankbar						
+957	2922	less	weniger						
+958	2955	feel	Gefühl	wanted	erwünscht				
+959	2957	explain	erklären						
+960	2960	whom	den						
+961	2961	mammoth	Mammut						
+962	2962	recent	jüngst						
+963	2963	clearly	deutlich						
+964	2969	town	Ort						
+965	2974	yet	noch						
+966	2981	police	Polizei						
+967	2986	police	Polizei	police	Polizei				
+968	2989	Baden-Württemberg	Baden-Württemberg						
+969	2990	police	Polizei	biker	Rocker				
+970	2991	evidence	Beweismittel	police	Polizei				
+971	2992	police	Polizei						
+972	2996	biker	Rocker	Kurdish	kurdisch				
+973	2999	percent	Prozent						
+974	3000	percent	Prozent						
