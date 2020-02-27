@@ -2,7 +2,8 @@ TERMINOLGOY DATA SET
 ====================
 
 We are releasing the data set used in the ACL paper
-Training Neural Machine Translation To Apply Terminology Constraints. Georgiana Dinu, Prashant Mathur, Marcello Federico and Yaser Al-Onaizan. ACL 2019 (Short).
+
+[Training Neural Machine Translation To Apply Terminology Constraints](https://www.aclweb.org/anthology/P19-1294/). Georgiana Dinu, Prashant Mathur, Marcello Federico and Yaser Al-Onaizan. ACL 2019 (Short).
 
 The folder contain 4 files in two folders and a script with a README.  
 The terminology files from IATE and Wiktionary data are in the form: {wikt,iate}.{NUM}.terminology.tsv where NUM represents the number of sentences. 
